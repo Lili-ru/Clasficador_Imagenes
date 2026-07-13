@@ -1,7 +1,6 @@
-# Plantilla de Proyecto de Ciencia de Datos
+# keras
 
-Esta plantilla está diseñada para impulsar proyectos de ciencia de datos proporcionando una configuración básica para conexiones de base de datos, procesamiento de datos, y desarrollo de modelos de aprendizaje automático. Incluye una organización estructurada de carpetas para tus conjuntos de datos y un conjunto de paquetes de Python predefinidos necesarios para la mayoría de las tareas de ciencia de datos.
-
+Aca te dejo el enlace para que veas el archivo keras en el google drive (https://drive.google.com/file/d/1Mr9dVQ_cUR7jnLE551Zwe0GEO9boR-sM/view?usp=drive_link)
 ## Estructura
 
 El proyecto está organizado de la siguiente manera:
