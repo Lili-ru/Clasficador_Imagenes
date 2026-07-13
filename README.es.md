@@ -1,6 +1,8 @@
 # keras
 
-Aca te dejo el enlace para que veas el archivo keras en el google drive (https://drive.google.com/file/d/1Mr9dVQ_cUR7jnLE551Zwe0GEO9boR-sM/view?usp=drive_link)
+Aca te dejo el enlace para que veas el archivo keras en el google drive 
+https://drive.google.com/drive/u/0/folders/1vXYDT5PN4Yl92SYM7fRzlfzSVz2wJwlj
+(https://drive.google.com/file/d/1Mr9dVQ_cUR7jnLE551Zwe0GEO9boR-sM/view?usp=drive_link)
 ## Estructura
 
 El proyecto está organizado de la siguiente manera:
